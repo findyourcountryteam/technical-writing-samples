@@ -10,7 +10,7 @@ Salesforce (5 years):
 - For the [External Services Trailhead](https://trailhead.salesforce.com/content/learn/trails/access-business-processes-with-external-services) learning modules, I redesigned the entire learning experience, and produced clear, instructional videos that introduce key concepts and demonstrate ideal workflows for the External Services product. **These efforts contributed to a 50% increase in customer adoption and boosted online training completion rates from 49% to over 80%**.
 
 Microsoft / Ericsson (10 years):
- - [PDF](James_Armstrong_Microsoft_Documentation.pdf)
+ - [PDF](James_Armstrong_Microsoft_Samples.pdf)
 
-James Armstrong Microsoft Samples.pdf
+
 
