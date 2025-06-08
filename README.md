@@ -7,9 +7,10 @@ My Python/AI Project (FindMyCountry.com)
 Salesforce (5 years):
 - I planned and performed a complete restructuring of the Salesforce Bulk API Developer Guides and carefully maintained them. [PDF](James_Armstrong_Salesforce_Samples_of_Developer_Documentation.pdf) or [online](https://developer.salesforce.com/docs/atlas.en-us.252.0.api_asynch.meta/api_asynch/asynch_api_intro.htm).
 - I was responsible for documenting the [External Services](https://help.salesforce.com/s/articleView?id=platform.external_services.htm&type=5) product, which imports an OpenAPI-compliant specification, and transforms each operation into invocable actions that you declaratively call from within Salesforce. 
-- For the [External Services Trailhead](https://trailhead.salesforce.com/content/learn/trails/access-business-processes-with-external-services) learning modules, I redesigned the entire learning experience, and produced clear, instructional videos that introduce key concepts and demonstrate ideal workflows for the External Services product. These efforts contributed to a 50% increase in customer adoption and boosted online training completion rates from 49% to over 80%.
+- For the [External Services Trailhead](https://trailhead.salesforce.com/content/learn/trails/access-business-processes-with-external-services) learning modules, I redesigned the entire learning experience, and produced clear, instructional videos that introduce key concepts and demonstrate ideal workflows for the External Services product. **These efforts contributed to a 50% increase in customer adoption and boosted online training completion rates from 49% to over 80%**.
 
 Microsoft / Ericsson (10 years):
+ - [PDF](James_Armstrong_Microsoft_Documentation.pdf)
 
 James Armstrong Microsoft Samples.pdf
 
