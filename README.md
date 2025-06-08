@@ -2,7 +2,7 @@
 Hiring manager or recruiter? You're definitely in the right place.
 
 My Python/AI Project (FindMyCountry.com)
-- Working on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC.   I built a [website experience with a semi-automated backend](https://findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
+- Working on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC.   I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
 
 Salesforce (5 years):
 - I planned and performed a complete restructuring of the Salesforce Bulk API Developer Guides and carefully maintained them. [PDF](James_Armstrong_Salesforce_Samples_of_Developer_Documentation.pdf) or [online](https://developer.salesforce.com/docs/atlas.en-us.252.0.api_asynch.meta/api_asynch/asynch_api_intro.htm).
