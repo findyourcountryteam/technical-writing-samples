@@ -1,5 +1,5 @@
 # James Armstrong's Technical Writing Samples 
-Hiring manager or recruiter? * *This is the right place.* *
+Hiring manager or recruiter? _This is the right place._
 
 ## About Me
 Over the last 25 years, my tech writing has distilled itself into customer advocacy. I want customers to move from the intial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't BUY the product to be faced with LEARNING it. They want to snap it into their workflow, and accelerate faster toward their business objectives, along with all the other new, shiny things they've acquired recently. Never really works that way, though, does it? Which is where my experience, training, and skills enter: 
