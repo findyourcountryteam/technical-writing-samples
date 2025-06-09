@@ -1,5 +1,6 @@
-# James Armstrong's Technical Writing Samples
-Hiring manager or recruiter? _You found the right place._
+# James Armstrong's Technical Writing Samples :EMOJICODE:✍️
+
+Hiring manager or recruiter? _You found the right place._ 
 
 ## About Me
 My north star is customer advocacy. Customers should move from the initial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't buy the product to be confronted with _learning_ it. They want the product to snap into their workflow and trigger their business to accelerate faster toward their objectives. It never really works that way, though, does it? Which is where my experience, training, and skills enter.
