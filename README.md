@@ -11,15 +11,15 @@ How do I get that developer from Now to Wow - not knowing whether they are a beg
 > Or schedule some time to talk! Let's see if my blend of skills and talent is a match for the problems you need to solve.
 
 
-## Python/AI Project (FindMyCountry.com):
+## 1. Python/AI Project (FindMyCountry.com):
 - **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
 
-## Salesforce (5 years):
+## 2. Salesforce (5 years):
 - **Developer Documentation / Content Strategy.** I planned and performed a complete restructuring of the Salesforce Bulk API Developer Guides and carefully maintained them. [PDF](James_Armstrong_Salesforce_Samples_of_Developer_Documentation.pdf) or [online](https://developer.salesforce.com/docs/atlas.en-us.252.0.api_asynch.meta/api_asynch/asynch_api_intro.htm).
 - **Help Guides.** I was responsible for documenting the [External Services](https://help.salesforce.com/s/articleView?id=platform.external_services.htm&type=5) product, which imports an OpenAPI-compliant specification, and transforms each operation into invocable actions that you declaratively call from within Salesforce. 
 - **Training / Video Production.** For the [External Services Trailhead](https://trailhead.salesforce.com/content/learn/trails/access-business-processes-with-external-services) learning modules, I redesigned the entire learning experience and produced clear, instructional videos that introduce key concepts and demonstrate ideal workflows for the External Services product. **These efforts contributed to a 50% increase in customer adoption and boosted online training completion rates from 49% to over 80%**.
 
-## Microsoft / Ericsson (5 + 5 years):
+## 3. Microsoft / Ericsson (5 + 5 years):
 I wrote for the Mediaroom product (think "AT&T U-verse"). This [collection of samples](James_Armstrong_Microsoft_Samples.pdf) includes:
 - **Change Management.** Examples of the format I developed to enable a cumulative change logging that was easily understood by Mediaroom customers.
 - **Diagrams.** Examples of the design principles I developed to create logical, useful diagrams that enable customers to quickly understand data-flows between system components. The primary audience was system administrators tasked with troubleshooting issues.
