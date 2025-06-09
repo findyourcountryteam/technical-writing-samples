@@ -8,8 +8,11 @@ How do I get that developer from Now to Wow - not knowing whether they are a beg
 
 Or schedule some time to talk! Let's see if my blend of skills and talent are a match for the problems you need to solve.
 
-## Python/AI Project (FindMyCountry.com)
+## Python/AI Project (FindMyCountry.com):
+<details>
+<summary>Developed a Python/Flask Website</summary>
 - **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
+</details>
 
 ## Salesforce (5 years):
 - **Developer Documentation / Content Strategy.** I planned and performed a complete restructuring of the Salesforce Bulk API Developer Guides and carefully maintained them. [PDF](James_Armstrong_Salesforce_Samples_of_Developer_Documentation.pdf) or [online](https://developer.salesforce.com/docs/atlas.en-us.252.0.api_asynch.meta/api_asynch/asynch_api_intro.htm).
