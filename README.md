@@ -2,8 +2,9 @@
 Hiring manager or recruiter? * *This is the right place.* *
 
 ## About Me
-Over the last 25 years, my tech writing has distilled itself into customer advocacy. I want customers to go from "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't BUY the product to be faced with LEARNING it. They want to snap it into their workflow, and accelerate faster toward their business objectives. Never works that way, though, does it? Which is where my experience, training, and skills enter: How do I get that developer from Now to Wow - not knowing whether they are a beginner, or a debugged Gitfather?
-Is it possible that your documentation is oriented to the way your engineers think about it ("Our Drill"), instead of what the customer really wants ("Making Holes")?
+Over the last 25 years, my tech writing has distilled itself into customer advocacy. I want customers to move from the intial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't BUY the product to be faced with LEARNING it. They want to snap it into their workflow, and accelerate faster toward their business objectives, along with all the other new, shiny things they've acquired recently. Never really works that way, though, does it? Which is where my experience, training, and skills enter: 
+
+How do I get that developer, or my father, for that matter, from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a salty lead dev who likes to offer doc feedback? Perhaps you will glean something of my approach, my innovations... my incantations and distillations, while you check out my samples in the following sections.
 
 ## Python/AI Project (FindMyCountry.com)
 - **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
