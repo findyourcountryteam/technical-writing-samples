@@ -1,4 +1,4 @@
-# James Armstrong's Technical Writing Samples 
+# James Armstrong's Technical Writing Samples
 Hiring manager or recruiter? _You found the right place._
 
 ## About Me
@@ -6,7 +6,9 @@ My north star is customer advocacy. Customers should move from the initial "What
 
 How do I get that developer from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a particularly salty lead dev who likes to offer doc feedback? Perhaps you will glean something of my approach, innovations, and incantations as you explore my samples.
 
-Or schedule some time to talk! Let's see if my blend of skills and talent are a match for the problems you need to solve.
+> [!TIP]
+> Or schedule some time to talk! Let's see if my blend of skills and talent is a match for the problems you need to solve.
+
 
 ## Python/AI Project (FindMyCountry.com):
 - **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
