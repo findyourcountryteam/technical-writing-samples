@@ -1,8 +1,12 @@
 # James Armstrong's Technical Writing Samples 
-Hiring manager or recruiter? You're definitely in the right place.
+Hiring manager or recruiter? * *This is the right place.* *
 
-## My Python/AI Project (FindMyCountry.com)
-- **Python / AI.** Working on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC.   I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
+## About Me
+Over the last 25 years, my tech writing has distilled itself into customer advocacy. I want customers to go from "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't BUY the product to be faced with LEARNING it. They want to snap it into their workflow, and accelerate faster toward their business objectives. Never works that way, though, does it? Which is where my experience, training, and skills enter: How do I get that developer from Now to Wow - not knowing whether they are a beginner, or a debugged Gitfather?
+Is it possible that your documentation is oriented to the way your engineers think about it ("Our Drill"), instead of what the customer really wants ("Making Holes")?
+
+## Python/AI Project (FindMyCountry.com)
+- **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
 
 ## Salesforce (5 years):
 - **Developer Documentation / Content Strategy.** I planned and performed a complete restructuring of the Salesforce Bulk API Developer Guides and carefully maintained them. [PDF](James_Armstrong_Salesforce_Samples_of_Developer_Documentation.pdf) or [online](https://developer.salesforce.com/docs/atlas.en-us.252.0.api_asynch.meta/api_asynch/asynch_api_intro.htm).
