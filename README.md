@@ -15,10 +15,9 @@ I wrote for the Mediaroom product (think "AT&T U-verse"). This [collection of sa
 - **Diagrams.** Examples of the design principles I developed to create logical, useful diagrams that enable customers to quickly understand data-flows between system components. The primary audience was system administrators tasked with troubleshooting issues.
 - **Task-oriented docs.** Examples that demonstrate clarity in task-oriented documentation.
 - **Content strategy.** I completely reorganized two books using a feature-oriented scheme. The new organization had the following advantages:
--- Made locating content very simple and predictable for readers.
--- Made finding a location for new content very easy for writers.
--- Made the technical review process much easier, as all relevant content for a
-given feature was located in the same place.
+  - Made locating content very simple and predictable for readers.
+  - Made finding a location for new content very easy for writers.
+  - Made the technical review process much easier, as all relevant content for a given feature was located in the same place.
 
 
 
