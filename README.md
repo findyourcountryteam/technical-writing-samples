@@ -6,6 +6,8 @@ Over the last 25 years, my tech writing has distilled itself into customer advoc
 
 How do I get that developer, or my father, for that matter, from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a salty lead dev who likes to offer doc feedback? Perhaps you will glean something of my approach, my innovations... my incantations and distillations, while you check out my samples in the following sections.
 
+Or schdule some time to talk! Let's see if my blend of skills and talent are a match for the problems you need to solve.
+
 ## Python/AI Project (FindMyCountry.com)
 - **Python / AI.** Worked on a Python web development project since December, experiencing firsthand the friction points for developers during the SDLC. I built a [website experience with a semi-automated backend](https://www.findmycountry.com), a test suite, a structured JSON file as a database, together with combined inputs from Claude, Perplexity, and ChatGPT APIs. 
 
@@ -24,5 +26,8 @@ I wrote for the Mediaroom product (think "AT&T U-verse"). This [collection of sa
   - Made finding a location for new content very easy for writers.
   - Made the technical review process much easier, as all relevant content for a given feature was located in the same place.
 
+Beyond the option of do nothing at all, or moving on to reviewing other candidates, why not schedule a call now to discuss what it is that you need and exactly how it is that I can help?
+Will the other candidates really help to increase the total customer experience? Adoption? Enablement? Retention? 
+Thanks very much for your time and consideration.
 
-
+-James Armstrong
