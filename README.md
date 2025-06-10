@@ -3,12 +3,12 @@
 Hiring manager or recruiter? _You found the right place._ 
 
 ## About Me ✍️
-My north star is customer advocacy. Customers should move from the initial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't buy the product to be confronted with _learning_ it. They want the product to snap into their workflow and trigger their business to accelerate faster toward their objectives. It never really works that way, though, does it? Which is where my experience, training, and skills enter.
+My north star is customer advocacy. Customers should move from the initial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't buy the product to be confronted with _learning_ it. They want the product to snap into their workflow and trigger business growth. It never really works that way, though, does it? Which is where my experience, training, and skills enter.
 
-How do I get that developer from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a particularly salty lead dev who likes to offer doc feedback? Perhaps you will glean something of my approach, innovations, and incantations as you explore my samples.
+How do I get that developer from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a particularly salty lead dev who likes to offer doc feedback? You may glean something of my approach, innovations, and incantations as you explore my samples.
 
 > [!TIP]
-> Or schedule some time to talk! Let's see if my blend of skills and talent is a match for the problems you need to solve.
+> Or schedule some time to talk! Let's see if my blend of skills and talent is the answer to the problems you need to solve.
 
 
 ## 1. Python/AI Project:
@@ -21,11 +21,11 @@ How do I get that developer from Now to Wow - not knowing whether they are a beg
 
 ## 3. Microsoft / Ericsson:
 I wrote for the Mediaroom product (think "AT&T U-verse"). This [collection of samples](James_Armstrong_Microsoft_Samples.pdf) includes:
-- **Change Management.** Examples of the format I developed to enable a cumulative change logging that was easily understood by Mediaroom customers.
-- **Diagrams.** Examples of the design principles I developed to create logical, useful diagrams that enable customers to quickly understand data-flows between system components. The primary audience was system administrators tasked with troubleshooting issues.
+- **Change Management.** Examples of the format I developed to enable cumulative change logging that was easily understood by Mediaroom customers.
+- **Diagrams.** Examples of the design principles I developed to create logical, useful diagrams that enable customers to quickly understand data flows between system components. The primary audience was system administrators tasked with troubleshooting issues.
 - **Task-oriented Docs.** Examples that demonstrate clarity in task-oriented documentation.
 - **Content Strategy.** I completely reorganized two books using a feature-oriented scheme. The new organization had the following advantages:
-  - Made locating content very simple and predictable for readers.
+  - Made locating content simple and predictable for readers.
   - Made finding a location for new content very easy for writers.
   - Made the technical review process much easier, as all relevant content for a given feature was located in the same place.
 
