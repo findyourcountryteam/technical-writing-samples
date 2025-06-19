@@ -2,12 +2,12 @@
 
 Hiring manager or recruiter? _You found the right place._ 
 
-All personal quotes in this document are directly from my [LinkedIn Recommendations](https://www.linkedin.com/in/tojamesarmstrong/details/recommendations/?detailScreenTabIndex=0).
+All personal quotes in this document are from my [LinkedIn Recommendations](https://www.linkedin.com/in/tojamesarmstrong/details/recommendations/?detailScreenTabIndex=0).
 
 ## About Me ✍️
-My north star is customer advocacy. Customers should move from the initial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't buy the product to be confronted with _learning_ it. They want the product to snap into their workflow and trigger business growth. It never really works that way, though, does it? Which is where my experience, training, and skills enter.
+My north star is customer advocacy. Customers should move from the initial "What now?" to "Wow!" in a tiny increment of space-time. They should, really, because they didn't buy the product to be confronted with _learning_ it. They want the product to snap into their workflow and trigger business growth. It never really works that way, though, does it? This is where my experience, training, and skills come in handy.
 
-How do I get that developer from Now to Wow - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a particularly salty lead dev who likes to offer doc feedback? You may glean something of my approach, innovations, and incantations as you explore my samples.
+How do I get that developer from "What now?" to "Wow!" - not knowing whether they are a beginner, an executive, a no-coder, a low-coder, or a particularly salty lead dev who likes to offer doc feedback? You may glean something of my approach, innovations, and incantations as you explore my samples.
 
 Or, schedule some time to talk! Let's see if my blend of skills and talent is the answer to the problems you need to solve.
 
